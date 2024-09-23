@@ -3,7 +3,7 @@ I'm **Nisrina Febriyanti** ✨
 A senior-year Information Systems student at Telkom University.
 
 🌱 I'm currently building my resume and digital garden.  
-Check it out here: [nisrina](https://nisrina.vercel.app/)
+Check it out here: [nisrina.com](https://nisrina.vercel.app/)
 
 <!--
 **nisrinafri/nisrinafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
