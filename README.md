@@ -1,6 +1,6 @@
 # Hello! 👋  
 I'm **Nisrina Febriyanti** ✨  
-A senior-year Information Systems student at Telkom University.
+An Information Systems grad with a passion for crafting digital products that aren't just functional, but also spark joy, ignite curiosity, and (fingers crossed!) sprinkle a little bit of positive impact into someone's day. Think of me as a digital alchemist, turning raw ideas into delightful and genuinely useful solutions.🌙
 
 🌱 I'm currently building my resume and digital garden.  
 Check it out here: [nisrina.com](https://nisrina.vercel.app/)
