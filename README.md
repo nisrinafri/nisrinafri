@@ -3,7 +3,7 @@ I'm **Nisrina Febriyanti** ✨
 An Information Systems grad with a passion for crafting digital products that aren't just functional, but also spark joy, ignite curiosity, and (fingers crossed!) sprinkle a little bit of positive impact into someone's day. Think of me as a digital alchemist, turning raw ideas into delightful and genuinely useful solutions.🌙
 
 🌱 I'm currently building my resume and digital garden.  
-Check it out here: [nisrina.vercel.app](https://nisrina.vercel.app/)
+Check it out here: [nisrina.pages.dev](https://nisrina.pages.dev/)
 
 <!--
 **nisrinafri/nisrinafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
